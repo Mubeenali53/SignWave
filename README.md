@@ -91,7 +91,7 @@ This project is open-source under the MIT License. Feel free to modify and contr
 
 ### 📞 Contact
 💡 Authors: Danish Ahmed, Syed Zeeshan, Syed Mubeen Ali, Shaik Abdul Sami  
-📧 Email: ahmed.daanish002@gmail.com  
+📧 Email: syedmubeenali553@gmail.com  
 🐙 GitHub: daaanishhh002  
 
 
